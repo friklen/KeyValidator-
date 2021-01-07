@@ -44,10 +44,7 @@
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 - OK
 
 ### Тестирование производилост в следующем окружении:
-* Ноутбук Xiaomi Mi Air
-* Windows 10 Home
-* версия Java 11.0.9.1
-
-
-
-
+*  Ноутбук Xiaomi Mi Air
+Windows 10 Домашняя x64
+версия Java 11.0.9.1
+IntelliJ IDEA
