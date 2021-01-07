@@ -45,6 +45,6 @@
 
 ### Тестирование производилост в следующем окружении:
 *  Ноутбук Xiaomi Mi Air
-Windows 10 Домашняя x64
-версия Java 11.0.9.1
-IntelliJ IDEA
+* Windows 10 Домашняя x64
+* версия Java 11.0.9.1
+* IntelliJ IDEA
