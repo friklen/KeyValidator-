@@ -11,9 +11,10 @@
 * 387eedc6-12e9-3b32-9881-63b6b5e85317
 2. ключи из списка невалидных оказались валидными:
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+
 * Заведены два Баг-репорта:
-* [Невалидный ключ проходит валидацию](https://github.com/friklen/KeyValidator-/issues/2#issue-772371962)
-* [Валидный ключ не проходит валидацию](https://github.com/friklen/KeyValidator-/issues/1#issue-772367266)
+1. [Невалидный ключ проходит валидацию](https://github.com/friklen/KeyValidator-/issues/2#issue-772371962)
+2. [Валидный ключ не проходит валидацию](https://github.com/friklen/KeyValidator-/issues/1#issue-772367266)
 
 ### Описание процесса тестирования
 1. Скачать OpenJDK11 в соответствии с инструкцией по установке [OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
